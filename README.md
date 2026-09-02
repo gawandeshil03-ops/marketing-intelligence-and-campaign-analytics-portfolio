@@ -15,9 +15,7 @@
 
 ## Project Overview
 
-This project focuses on Marketing Intelligence & Campaign Analytics and presents the analysis in a clear, practical way.
-
-This project focuses on sales and marketing analytics. It is presented in a simple way so the main analysis and output are easy to understand.
+This project analyzes marketing campaign data to compare campaign and customer response patterns. It brings the main marketing measures together so campaign performance is easier to review and compare.
 
 ## How the Project Works
 
@@ -34,24 +32,24 @@ The repository verifies these working components. A sequence is intentionally no
 
 ## What This Project Does
 
-- Focuses on sales and marketing analytics.
-- Uses the technologies shown below to complete the analysis or build the project output.
-- Organizes the project work around a clear analytics problem.
+- Compares marketing campaign performance using the available campaign data.
+- Reviews customer response and marketing measures in one analysis.
+- Presents campaign results in clear visual views when dashboard files are available.
 
 ## Technologies Used
 
 | Technology | How It Is Used |
 |------------|----------------|
-| Python | Used in the project |
-| SQL | Used in the project |
-| Power BI | Used in the project |
-| CSV | Used in the project |
+| Python | Cleans, prepares, and analyzes the project data |
+| SQL | Queries and summarizes data for analysis |
+| Power BI | Builds the interactive dashboard and visual analysis |
+| CSV | Provides tabular source or output data for the analysis |
 
 
 
 ## Project Application
 
-This project shows how sales and marketing analytics can be approached with data and analytics. It can be useful for understanding the problem, comparing important information, and supporting better decisions.
+Campaign analytics can help marketing teams compare campaign response and performance. It can support decisions about which campaigns, customer groups, or channels deserve more attention.
 
 ---
 
