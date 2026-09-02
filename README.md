@@ -2,9 +2,7 @@
 
 # Marketing Intelligence & Campaign Analytics
 
-### A portfolio-ready repository for Marketing Intelligence & Campaign Analytics, documented from the files and technologies present in the project.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Sales%20%20Marketing%20Analytics-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sales%20%26%20Marketing%20Analytics%20Portfolio-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
 [![Repository](https://img.shields.io/badge/Repository-GitHub-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/marketing-intelligence-and-campaign-analytics-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shilgawande2004)
 [![GitHub](https://img.shields.io/badge/GitHub-gawandeshil03-ops-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops)
@@ -17,15 +15,11 @@
 
 ## Project Overview
 
-A portfolio-ready repository for Marketing Intelligence & Campaign Analytics, documented from the files and technologies present in the project.
+This project focuses on Marketing Intelligence & Campaign Analytics and presents the analysis in a clear, practical way.
 
-## Problem / Objective
+This project focuses on sales and marketing analytics. It is presented in a simple way so the main analysis and output are easy to understand.
 
-**Application:** Sales and marketing analytics.
-
-This README is generated from the actual project folder. Technologies, components, inputs, outputs, and architecture claims are included only when supported by repository evidence.
-
-## Project Working Component Map
+## How the Project Works
 
 ```mermaid
 flowchart TD
@@ -38,68 +32,27 @@ flowchart TD
 
 The repository verifies these working components. A sequence is intentionally not invented where the project documentation does not prove one.
 
-## Verified Working Components
+## What This Project Does
 
-| Layer / Area | Verified Evidence |
-|--------------|-------------------|
-| Inputs | CSV datasets |
-| Processing | Python scripts |
-| Data / Storage | SQL scripts / data layer |
-| Outputs / Interface | Power BI report |
+- Focuses on sales and marketing analytics.
+- Uses the technologies shown below to complete the analysis or build the project output.
+- Organizes the project work around a clear analytics problem.
 
-## Technology Stack
+## Technologies Used
 
-| Technology | Evidence |
-|------------|----------|
-| Python | Verified from project files |
-| SQL | Verified from project files |
-| Power BI | Verified from project files |
-| CSV | Verified from project files |
+| Technology | How It Is Used |
+|------------|----------------|
+| Python | Used in the project |
+| SQL | Used in the project |
+| Power BI | Used in the project |
+| CSV | Used in the project |
 
-## Core Repository Files
 
-| File | Type |
-|------|------|
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\Calendar DAX Script.txt` | TXT |
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\customer_reviews_enrichment.py` | PY |
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\Dashboard.pbix` | PBIX |
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\dim_customers.sql` | SQL |
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\dim_products.sql` | SQL |
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\fact_customer_journey.sql` | SQL |
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\fact_customer_reviews.sql` | SQL |
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\fact_customer_reviews_enrich.csv` | CSV |
-| `Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI\fact_engagement_data.sql` | SQL |
 
-## Project Structure
+## Project Application
 
-`	ext
-p-1074616477/
-  - docs/
-  - Project-_Marketing-Analysis-with-dashboard_Python_Sql_power-BI/
-`
-
-## How the Project Is Organized
-
-The architecture/workflow visual above is the primary working view of this project. When an existing architecture or workflow image is present, that project asset is used directly. Otherwise, the automation derives a Mermaid visual only from verified project documentation and artifacts.
-
-## Methodology & Documentation Policy
-
-- Local project files are the source of truth.
-- Existing project README content is preserved under `docs/ORIGINAL_README.md` in the safe publication copy when available.
-- Technology badges are created only from detected project evidence.
-- Unsupported databases, cloud services, APIs, models, metrics, deployment claims, users, clients, revenue, savings, or business outcomes are omitted.
-- When workflow order cannot be proven, the visual is explicitly shown as a working component map rather than a fabricated sequence.
-
-## Explore
-
-Use the repository files together with the architecture/workflow visual, technology table, and project structure above to understand the implementation.
-
-## Contact
-
-- GitHub: https://github.com/gawandeshil03-ops
-- LinkedIn: https://www.linkedin.com/in/shilgawande2004
-- Email: gawandeshil9@gmail.com
+This project shows how sales and marketing analytics can be approached with data and analytics. It can be useful for understanding the problem, comparing important information, and supporting better decisions.
 
 ---
 
-[<- Return to Sales  Marketing Analytics Portfolio](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
+[<- Return to Sales & Marketing Analytics Portfolio](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
